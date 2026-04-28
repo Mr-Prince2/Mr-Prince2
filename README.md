@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hey there 👋 I'm Aariyas Bevin!<br><br>🔭 I’m currently working on an **anime-themed portfolio website** built with React.js and Tailwind CSS.  <br>👯 I’m looking to collaborate on **creative front-end projects** that mix design, animation, and AI.  <br>🤝 I’m looking for help with **backend integration** .  <br>🌱 I’m currently learning **React Native** and **machine learning fundamentals** to build smarter web apps.  <br>💬 Ask me about **JavaScript, web design tips, or anime-inspired UI ideas** — I love chatting about them!  <br>⚡ Fun fact: I drink too much coffee ☕ and still manage to code like a pirate ⚔️  <br><br>---<br><br>⭐ *"Code with creativity, design with heart."*  <br>
+### Hey there 👋 I'm Aariyas Bevin!<br><br>🔭 I’m currently working on an **anime-themed portfolio website** built with React.js and Tailwind CSS.  <br>👯 I’m looking to collaborate on **creative front-end projects** that mix design, animation, and AI.  <br>🤝 I’m looking for help with **backend integration** .  <br>🌱 I’m currently learning **React Native** and **machine learning fundamentals** to build smarter web apps.  <br>💬 Ask me about **JavaScript, web design tips, or anime-inspired UI ideas** — I love chatting about them!  <br> <br><br>---<br><br>⭐ *"Code with creativity, design with heart."*  <br>
 
 
 ## 🌐 Socials:
