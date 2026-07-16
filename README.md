@@ -61,10 +61,7 @@ I am a creative developer and researcher dedicated to building fluid, beautiful,
   
 <div align="center">
   
- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark) <br>
 
- 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=great-gatsby)
 
 </div>
   
