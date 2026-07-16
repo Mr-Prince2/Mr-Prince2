@@ -1,4 +1,4 @@
-<h1 align="center">AARIYAS BEVIN</h1>
+<h1 align="center">Hey, I'm AARIYAS BEVIN</h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -59,9 +59,14 @@ I am a creative developer and researcher dedicated to building fluid, beautiful,
 
 <div align="center">
   
-  [![Aariyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Prince2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1)](https://github.com/Mr-Prince2)
+<div align="center">
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Prince2&layout=compact&theme=tokyonight&hide_border=true&v=1)](https://github.com/Mr-Prince2)
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark) <br>
+
+ 
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=great-gatsby)
+
+</div>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Prince2&theme=tokyonight&hide_border=true)](https://github.com/Mr-Prince2)
 
