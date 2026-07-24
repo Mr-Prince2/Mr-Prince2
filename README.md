@@ -63,11 +63,12 @@ I am a creative developer and researcher dedicated to building fluid, beautiful,
   
 
 
-</div>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Prince2&theme=tokyonight&hide_border=true)](https://github.com/Mr-Prince2)
-
-</div>
+<details>
+    <summary><b>GitHub Stats</b></summary>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Prince2&theme=dark&hide_border=true&text_color=d6d0d0&ring=5EF6FF&currStreakLabel=205EB3&fire=205EB3" width="400"/>
+</p>
+</details>
 
 ---
 <div align="center">
