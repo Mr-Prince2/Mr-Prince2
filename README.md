@@ -58,7 +58,7 @@ I am a creative developer and researcher dedicated to building fluid, beautiful,
 <details>
     <summary><b>GitHub Stats</b></summary>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Prince2&theme=dark&hide_border=true&text_color=d6d0d0&ring=5EF6FF&currStreakLabel=205EB3&fire=205EB3" width="400"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Prince2&theme=everforest-dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
 </p>
 </details>
 
