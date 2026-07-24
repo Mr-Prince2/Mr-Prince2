@@ -22,21 +22,26 @@
 
 ---
 
-## 🌸 About Me
+##  About Me
 
 > **"Monozukuri" (ものづくり) — The art of designing and creating with mind, spirit, and precision.**
 
 I am a creative developer and researcher dedicated to building fluid, beautiful, and highly intuitive digital experiences. I bridge the gap between elegant visual design, robust code, and transparent, human-centered technology.
 
-*   **⛩️ Current Focus:** Engineering a custom **anime-themed portfolio website** to showcase advanced front-end interactions and creative micro-animations.
-*   **🧠 Research Interest:** Exploring the intersection of **eXplainable AI (XAI)** and **Human-Computer Interaction (HCI)**—focusing on how we can design user interfaces that make complex machine learning models transparent, trustworthy, and easy to understand.
-*   **🌱 Continuous Growth:** Deepening my mastery of mobile development with **React Native**, modern serverless backends, and practical machine learning workflows.
-*   **🤝 Collaboration:** Looking to team up on creative front-end projects, interactive design systems, or human-centric AI applications.
-*   **💬 Let's Connect:** Drop me a message to geek out over UI animations, anime aesthetics, or how we can make machine learning more human!
+> **Current Focus:** Engineering a custom **anime-themed portfolio website** to showcase advanced front-end interactions and creative micro-animations.<br>
+
+> **Research Interest:** Exploring the intersection of **eXplainable AI (XAI)** and **Human-Computer Interaction (HCI)**—focusing on how we can design user interfaces that make complex machine learning models transparent, trustworthy, and easy to understand.<br>
+
+> **Continuous Growth:** Deepening my mastery of mobile development with **React Native**, modern serverless backends, and practical machine learning workflows.<br>
+
+>   **Collaboration:** Looking to team up on creative front-end projects, interactive design systems, or human-centric AI applications.<br>
+
+>   **Let's Connect:** Drop me a message to geek out over UI animations, anime aesthetics, or how we can make machine learning more human!<br>
+
 
 ---
 
-## 💻 Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Frontend & Mobile:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
