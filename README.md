@@ -55,14 +55,6 @@ I am a creative developer and researcher dedicated to building fluid, beautiful,
 
 ---
 
-## 📈 GitHub Insights
-
-<div align="center">
-  
-<div align="center">
-  
-
-
 <details>
     <summary><b>GitHub Stats</b></summary>
 <p align="center">
