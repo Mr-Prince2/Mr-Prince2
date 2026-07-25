@@ -25,7 +25,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Discord-2b2b2b?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discord.com/users/859465005732986890"><img src="https://img.shields.io/badge/Discord-2b2b2b?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
 <a href="https://instagram.com/aariyas_02"><img src="https://img.shields.io/badge/Instagram-2b2b2b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/aariyas-bevin-a"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aariyasbevin@gmail.com"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
