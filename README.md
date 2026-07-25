@@ -1,78 +1,132 @@
-<h1 align="center">Hey, I'm AARIYAS BEVIN</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=2,3,4&text=AARIYAS%20BEVIN&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Web%20Developer%20%7C%20Creative%20Front-End%20Specialist&descAlign=50&descAlignY=65&descSize=18" width="100%"/>
+
+</div>
+
+<table align="center" border="0" cellspacing="0" cellborder="0">
+<tr>
+<td width="70%" valign="middle">
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7289DA&center=true&vCenter=true&width=600&lines=WEB+DEVELOPER;ANIMATED+DEVELOPER;CREATIVE+FRONT-END+SPECIALIST;UI+INNOVATOR" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A8A8A&center=true&vCenter=true&width=500&lines=WEB+DEVELOPER;ANIMATED+DEVELOPER;CREATIVE+FRONT-END+SPECIALIST;UI+INNOVATOR" alt="Typing SVG" />
+</a>
 </h3>
 
+</td>
+<td width="30%" align="center">
+<img src="https://media.tenor.com/x83WNsxAiWEAAAAi/anime-typing.gif" width="140" style="border-radius:12px; filter:grayscale(20%);"/>
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://media.tenor.com/Fw-aYQGjP4kAAAAC/cherry-blossom-sakura.gif" alt="Falling Sakura Animation" width="600" style="border-radius: 10px;" />
+<strong>Crafting clean code with intention, designing with heart.</strong>
 </p>
 
 <p align="center">
-  <strong>Crafting clean code with intention, designing with heart.</strong>
+<img src="https://img.shields.io/badge/Discord-2b2b2b?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://instagram.com/aariyas_02"><img src="https://img.shields.io/badge/Instagram-2b2b2b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/aariyas-bevin-a"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aariyasbevin@gmail.com"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" style="filter:grayscale(100%);" />
+
+## About Me
+
+> **"Monozukuri" (ものづくり)** — the art of designing and creating with mind, spirit, and precision.
+
+I'm a creative developer and researcher building fluid, intuitive digital experiences — bridging elegant design, robust code, and human-centered technology.
+
+- 🎨 **Current Focus** — an anime-themed portfolio site showcasing advanced front-end interaction & micro-animation
+- 🔍 **Research Interest** — eXplainable AI × Human-Computer Interaction, designing interfaces that make ML models transparent and trustworthy
+- 📱 **Growing In** — React Native, serverless backends, and applied machine learning
+- 🤝 **Open To** — creative front-end projects, interactive design systems, human-centric AI applications
+- 💬 **Let's Talk** — UI animation, anime aesthetics, or making machine learning more human
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mr-Prince2&label=Profile+Views&color=2b2b2b&style=flat-square" alt="Profile Views" />
+</p>
+
+<br>
+
+## Tech Stack
 
 <div align="center">
-  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/859465005732986890) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aariyas_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aariyas-bevin-a) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aariyasbevin@gmail.com) 
+
+**Frontend & Mobile**
+<br>
+<img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-2b2b2b?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-2b2b2b?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-2b2b2b?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+**Animation & 3D**
+<br>
+<img src="https://img.shields.io/badge/GSAP-2b2b2b?style=flat-square&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-2b2b2b?style=flat-square&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-2b2b2b?style=flat-square&logo=framer&logoColor=white" />
+
+**Backend & BaaS**
+<br>
+<img src="https://img.shields.io/badge/Node.js-2b2b2b?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-2b2b2b?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-2b2b2b?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-2b2b2b?style=flat-square&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-2b2b2b?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-2b2b2b?style=flat-square&logo=vercel&logoColor=white" />
+
+**Data Science & ML**
+<br>
+<img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-2b2b2b?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2b2b2b?style=flat-square&logo=pandas&logoColor=white" />
+
+**Research & Design**
+<br>
+<img src="https://img.shields.io/badge/HCI-2b2b2b?style=flat-square" />
+<img src="https://img.shields.io/badge/Explainable_AI-2b2b2b?style=flat-square" />
+<img src="https://img.shields.io/badge/Figma-2b2b2b?style=flat-square&logo=figma&logoColor=white" />
 
 </div>
 
----
+<br>
 
-##  About Me
-
-> **"Monozukuri" (ものづくり) — The art of designing and creating with mind, spirit, and precision.**
-
-I am a creative developer and researcher dedicated to building fluid, beautiful, and highly intuitive digital experiences. I bridge the gap between elegant visual design, robust code, and transparent, human-centered technology.
-
-> **Current Focus:** Engineering a custom **anime-themed portfolio website** to showcase advanced front-end interactions and creative micro-animations.<br>
-
-> **Research Interest:** Exploring the intersection of **eXplainable AI (XAI)** and **Human-Computer Interaction (HCI)**—focusing on how we can design user interfaces that make complex machine learning models transparent, trustworthy, and easy to understand.<br>
-
-> **Continuous Growth:** Deepening my mastery of mobile development with **React Native**, modern serverless backends, and practical machine learning workflows.<br>
-
->   **Collaboration:** Looking to team up on creative front-end projects, interactive design systems, or human-centric AI applications.<br>
-
->   **Let's Connect:** Drop me a message to geek out over UI animations, anime aesthetics, or how we can make machine learning more human!<br>
+## GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-Prince2&abbreviated=true" alt="Profile Views" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Prince2&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&text_color=2b2b2b&icon_color=2b2b2b&title_color=2b2b2b" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Prince2&theme=default&hide_border=true&background=FFFFFF00&stroke=2b2b2b&ring=2b2b2b&fire=2b2b2b&currStreakLabel=2b2b2b" width="48%" />
 </p>
----
 
-
-##  Tech Stack & Tools
-
-**Frontend & Mobile:**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-**Animations & 3D:**  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-**Backend & BaaS:**  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Data Science & Machine Learning:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-
-**Research & Design:**  
-![HCI](https://img.shields.io/badge/Human--Computer%20Interaction-F24E1E?style=for-the-badge&logo=prospectus&logoColor=white) ![XAI](https://img.shields.io/badge/Explainable%20AI-0052CC?style=for-the-badge&logo=buffer&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-<details>
-    <summary><b>GitHub Stats</b></summary>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Prince2&theme=everforest-dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Prince2&theme=minimal&hide_border=true&color=2b2b2b&line=2b2b2b&point=2b2b2b" width="97%" />
 </p>
-</details>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="97%" />
+</p>
+
+<sub align="center">
+
+<em>The animated snake above renders your own contribution graph once you add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo — happy to walk you through the workflow file if you'd like.</em>
+
+</sub>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" style="filter:grayscale(100%);" />
+
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Mr-Prince2&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<em>"A real man doesn't need to say he'll protect someone — he just does it."</em>
+<br>
+— <strong>Sanji</strong>, <em>One Piece</em>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,3,4&section=footer" width="100%"/>
