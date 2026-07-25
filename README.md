@@ -37,11 +37,11 @@
 
 I'm a creative developer and researcher building fluid, intuitive digital experiences — bridging elegant design, robust code, and human-centered technology.
 
-- 🎨 **Current Focus** — an anime-themed portfolio site showcasing advanced front-end interaction & micro-animation
-- 🔍 **Research Interest** — eXplainable AI × Human-Computer Interaction, designing interfaces that make ML models transparent and trustworthy
-- 📱 **Growing In** — React Native, serverless backends, and applied machine learning
-- 🤝 **Open To** — creative front-end projects, interactive design systems, human-centric AI applications
-- 💬 **Let's Talk** — UI animation, anime aesthetics, or making machine learning more human
+-  **Current Focus** — an anime-themed portfolio site showcasing advanced front-end interaction & micro-animation
+-  **Research Interest** — eXplainable AI × Human-Computer Interaction, designing interfaces that make ML models transparent and trustworthy
+-  **Growing In** — React Native, serverless backends, and applied machine learning
+-  **Open To** — creative front-end projects, interactive design systems, human-centric AI applications
+-  **Let's Talk** — UI animation, anime aesthetics, or making machine learning more human
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Mr-Prince2&label=Profile+Views&color=2b2b2b&style=flat-square" alt="Profile Views" />
