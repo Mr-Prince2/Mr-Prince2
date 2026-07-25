@@ -111,12 +111,6 @@ I'm a creative developer and researcher building fluid, intuitive digital experi
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="97%" />
 </p>
 
-<sub align="center">
-
-<em>The animated snake above renders your own contribution graph once you add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo — happy to walk you through the workflow file if you'd like.</em>
-
-</sub>
-
 <br><br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" style="filter:grayscale(100%);" />
