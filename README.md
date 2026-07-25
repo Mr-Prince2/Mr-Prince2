@@ -38,8 +38,11 @@ I am a creative developer and researcher dedicated to building fluid, beautiful,
 
 >   **Let's Connect:** Drop me a message to geek out over UI animations, anime aesthetics, or how we can make machine learning more human!<br>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-Prince2&abbreviated=true" alt="Profile Views" />
+</p>
 ---
+
 
 ##  Tech Stack & Tools
 
