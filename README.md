@@ -99,7 +99,7 @@ I'm a creative developer and researcher building fluid, intuitive digital experi
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Prince2&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&text_color=2b2b2b&icon_color=2b2b2b&title_color=2b2b2b" width="48%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Prince2&theme=default&hide_border=true&background=FFFFFF00&stroke=2b2b2b&ring=2b2b2b&fire=2b2b2b&currStreakLabel=2b2b2b" width="48%" />
 </p>
 
