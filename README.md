@@ -4,22 +4,21 @@
 
 </div>
 
-<table align="center" border="0" cellspacing="0" cellborder="0">
-<tr>
-<td width="70%" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
-<h3 align="center">
+<table align="center">
+<tr>
+<td width="70%" valign="middle" align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A8A8A&center=true&vCenter=true&width=500&lines=WEB+DEVELOPER;ANIMATED+DEVELOPER;CREATIVE+FRONT-END+SPECIALIST;UI+INNOVATOR" alt="Typing SVG" />
 </a>
-</h3>
-
 </td>
 <td width="30%" align="center">
-<img src="https://media.tenor.com/x83WNsxAiWEAAAAi/anime-typing.gif" width="140" style="border-radius:12px; filter:grayscale(20%);"/>
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="130"/>
 </td>
 </tr>
 </table>
+
 
 <p align="center">
 <strong>Crafting clean code with intention, designing with heart.</strong>
@@ -114,6 +113,10 @@ I'm a creative developer and researcher building fluid, intuitive digital experi
 <br><br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" style="filter:grayscale(100%);" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
