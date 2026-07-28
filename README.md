@@ -96,7 +96,7 @@ I'm a creative developer and researcher building fluid, intuitive digital experi
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Prince2&theme=highcontrast&hide_border=true&background=FFFFFF00" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-nine.vercel.app?user=Mr-Prince2&theme=highcontrast&background=00000000" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
